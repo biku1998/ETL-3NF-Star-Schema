@@ -165,9 +165,9 @@ manager_first_name,manager_last_name,start_date,end_date}
 
 -- extra ## debug area : 
 
-set FOREIGN_KEY_CHECKS = 0;
+--set FOREIGN_KEY_CHECKS = 0;
 
-TRUNCATE TABLE dimdate;
+--TRUNCATE TABLE dimdate;
 
 -- drop table dimdate;
 
